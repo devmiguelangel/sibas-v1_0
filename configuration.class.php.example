@@ -1,0 +1,22 @@
+<?php
+
+class ConfigurationSibas
+{
+
+    public $host = 'localhost';
+
+    public $user = 'user';
+
+    public $password = '';
+
+    public $db = 'db';
+
+    public $dbPrefix = 'kaw_';
+
+    public $mailFrom = 'mmamani@coboser.com';
+
+    public $fromName = 'root';
+
+}
+
+?>
